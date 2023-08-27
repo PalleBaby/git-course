@@ -1,0 +1,4 @@
+add and remove user
+change the rules
+manage the database
+closing the connection
